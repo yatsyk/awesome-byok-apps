@@ -107,6 +107,7 @@ Where to get API keys.
 - [DeepInfra](https://deepinfra.com/dash/api_keys) — Hosted open-weight inference.
 - [DeepSeek](https://platform.deepseek.com) — DeepSeek-V3 and R1 reasoning models.
 - [ElevenLabs](https://elevenlabs.io/app/settings/api-keys) — Text-to-speech and voice cloning.
+- [FerryAPI](https://www.ferryapi.io/?utm_source=github&utm_medium=directory&utm_campaign=7day_growth) — OpenAI-compatible gateway for DeepSeek, Qwen, Kimi, and MiMo.
 - [Fireworks AI](https://fireworks.ai/account/api-keys) — Fast open-model hosting.
 - [Google AI Studio](https://aistudio.google.com/app/apikey) — Gemini family keys with a free tier.
 - [Groq](https://console.groq.com/keys) — Free-tier LPU inference for open models.
