@@ -91,6 +91,7 @@ Built-in BYOK in commercial tools.
 Run your own BYOK-enabled backend, or use a hosted aggregator.
 
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/configuration/bring-your-own-keys/) — Store provider keys and route at the edge.
+- [CoderPlan](https://coderplan.ai) — Hosted LLM API gateway; OpenAI-compatible access to Claude, GPT, Gemini, and 20+ models. Pay-per-use.
 - [Helicone](https://github.com/Helicone/helicone) — Observability proxy with BYOK for 100+ providers.
 - [LiteLLM](https://github.com/BerriAI/litellm) — Self-hosted proxy unifying 100+ LLM providers.
 - [OpenRouter](https://openrouter.ai) — Hosted aggregator; one key for hundreds of models.
@@ -104,6 +105,7 @@ Where to get API keys.
 - [Anthropic](https://console.anthropic.com) — Claude; create keys in Console → Settings → API Keys.
 - [Cerebras](https://cloud.cerebras.ai) — Ultra-fast inference for Llama and Qwen.
 - [Cohere](https://dashboard.cohere.com/api-keys) — Command, Embed, and Rerank models.
+- [CoderPlan](https://coderplan.ai) — One key for Claude, GPT, Gemini, DeepSeek, and 20+ models via OpenAI-compatible API. Pay-per-use, Alipay/WeChat supported.
 - [DeepInfra](https://deepinfra.com/dash/api_keys) — Hosted open-weight inference.
 - [DeepSeek](https://platform.deepseek.com) — DeepSeek-V3 and R1 reasoning models.
 - [ElevenLabs](https://elevenlabs.io/app/settings/api-keys) — Text-to-speech and voice cloning.
