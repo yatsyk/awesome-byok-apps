@@ -112,6 +112,7 @@ Where to get API keys.
 - [Groq](https://console.groq.com/keys) — Free-tier LPU inference for open models.
 - [Hugging Face](https://huggingface.co/settings/tokens) — Inference API across thousands of hosted models.
 - [Mistral AI](https://console.mistral.ai/api-keys) — Mistral and Codestral models, EU-hosted.
+- [AI Router](https://ai-router.dev/register) — Create an OpenAI-compatible API key for GPT workflows with usage visibility.
 - [OpenAI](https://platform.openai.com/api-keys) — GPT, DALL·E, Whisper, and TTS.
 - [OpenRouter](https://openrouter.ai/keys) — One key for hundreds of models across providers.
 - [Perplexity](https://www.perplexity.ai/settings/api) — Sonar search-grounded models.
