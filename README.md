@@ -93,6 +93,7 @@ Run your own BYOK-enabled backend, or use a hosted aggregator.
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/configuration/bring-your-own-keys/) — Store provider keys and route at the edge.
 - [Helicone](https://github.com/Helicone/helicone) — Observability proxy with BYOK for 100+ providers.
 - [LiteLLM](https://github.com/BerriAI/litellm) — Self-hosted proxy unifying 100+ LLM providers.
+- [AI Router](https://ai-router.dev) — OpenAI-compatible relay with API key management and per-key usage visibility.
 - [OpenRouter](https://openrouter.ai) — Hosted aggregator; one key for hundreds of models.
 - [Portkey](https://portkey.ai) — Managed or self-hosted gateway with budgets and routing.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) — Team-scoped managed gateway with BYOK support.
