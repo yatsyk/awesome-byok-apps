@@ -16,6 +16,9 @@ Thanks for helping curate this list. The goal is a high-signal catalog of **real
 - Forks that don't add value over the upstream.
 - Paid placements — the list is strictly merit-based.
 - Abandoned apps (no commits in 12+ months and no working demo).
+- Key-resale / relay services that resell metered access to third-party
+  models or subscriptions (shared-account gateways and proxies). Gateways
+  are welcome only if they route requests using the user's own provider keys.
 
 ## Entry format
 
@@ -36,6 +39,9 @@ Rules:
 
 Open a PR adding your app to the appropriate section. Include in the PR description:
 
+- **Disclosure** — if you're the author of, or otherwise affiliated with,
+  the project you're proposing, say so in the PR description. Affiliated
+  submissions are welcome; undisclosed ones may be closed.
 - **Live URL or repo** — must be reachable.
 - **How the user supplies their key** (settings panel, env var, config file).
 - **Which providers are supported**.

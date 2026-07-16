@@ -129,6 +129,7 @@ Rules:
 - Entries follow `- [Name](link) — Short description.`
 - Alphabetical order within each section (case-insensitive).
 - No duplicates; merge close entries.
+- No key-resellers; disclose affiliation when proposing your own project.
 
 ## License
 
