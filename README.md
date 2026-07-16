@@ -65,6 +65,7 @@ Built-in BYOK in commercial tools.
 - [Novel](https://github.com/steven-tey/novel) — Notion-style editor with AI commands.
 - [OpenGrammar](https://github.com/swadhinbiswas/opengrammar) — Open-source Grammarly alternative.
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Open-source Perplexity-style search.
+- [Rewire Text](https://sunsetmesasoftware.com/rewire-text/) — Windows/macOS tool to transform text in any app using a hotkey. Supports BYOK and local AI providers.
 
 ## Translation
 
