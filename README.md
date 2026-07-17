@@ -34,6 +34,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) — Cross-platform (web and Tauri) ChatGPT clone.
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted platform for Ollama and OpenAI with RAG.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) — Power-user roleplay frontend with per-user secrets.
+- [Sleek](https://apps.apple.com/us/app/sleek-byok/id6786075866) — Native iOS OpenRouter client with SillyTavern character-card import.
 - [TypingMind](https://www.typingmind.com) — Polished web client with AES-encrypted local storage.
 
 ## Code assistants
