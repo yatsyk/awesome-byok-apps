@@ -66,6 +66,7 @@ Built-in BYOK in commercial tools.
 - [OpenGrammar](https://github.com/swadhinbiswas/opengrammar) — Open-source Grammarly alternative.
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Open-source Perplexity-style search.
 - [Rewire Text](https://sunsetmesasoftware.com/rewire-text/) — Windows/macOS tool to transform text in any app using a hotkey. Supports BYOK and local AI providers.
+- [Engaggit](https://engaggit.com/) — AI-powered Reddit lead generation and research tool that runs 100% on your machine
 
 ## Translation
 
