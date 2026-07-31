@@ -30,6 +30,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) — Cross-platform desktop and mobile chat client.
 - [Jan](https://github.com/janhq/jan) — Offline-first desktop app; connects cloud providers or runs local models.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider ChatGPT clone with agents, MCP, and RAG.
+- [LiteFlight](https://github.com/garantiatsverga/LiteFlight) — A cross-platform, lightweight web-client with custom provider support.
 - [LobeChat](https://github.com/lobehub/lobe-chat) — Polished multi-provider chat with plugins and MCP support.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) — Cross-platform (web and Tauri) ChatGPT clone.
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted platform for Ollama and OpenAI with RAG.
