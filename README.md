@@ -112,6 +112,7 @@ Where to get API keys.
 - [Google AI Studio](https://aistudio.google.com/app/apikey) — Gemini family keys with a free tier.
 - [Groq](https://console.groq.com/keys) — Free-tier LPU inference for open models.
 - [Hugging Face](https://huggingface.co/settings/tokens) — Inference API across thousands of hosted models.
+- [Infersia](https://infersia.com/dashboard/keys) — Hosted open-weight inference with the served quantisation published.
 - [Mistral AI](https://console.mistral.ai/api-keys) — Mistral and Codestral models, EU-hosted.
 - [OpenAI](https://platform.openai.com/api-keys) — GPT, DALL·E, Whisper, and TTS.
 - [OpenRouter](https://openrouter.ai/keys) — One key for hundreds of models across providers.
