@@ -27,6 +27,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — Document chat, workspaces, and agents; desktop and server.
 - [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) — Lightweight static web UI for OpenAI.
 - [big-AGI](https://github.com/enricoros/big-AGI) — Multi-model workspace with personas, tools, and Beam.
+- [BYO AI](https://github.com/flamingspade1995-coder/litechat-android) — Android. Thin BYOK chat for OpenAI-compatible APIs. 4GB-friendly (1.6 MB APK), honest low-memory check, ads + one-time $4.99 Pro, FOSS flavor without Google services.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) — Cross-platform desktop and mobile chat client.
 - [Jan](https://github.com/janhq/jan) — Offline-first desktop app; connects cloud providers or runs local models.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider ChatGPT clone with agents, MCP, and RAG.
