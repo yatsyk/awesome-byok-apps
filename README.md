@@ -84,6 +84,7 @@ Built-in BYOK in commercial tools.
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Node-based image pipeline; external provider nodes accept API keys.
 - [Fabric](https://github.com/danielmiessler/fabric) — CLI for patterned prompt workflows across providers.
+- [Infiknit](https://infiknit.app) — Desktop visual canvas for BYOK image and video workflows.
 - [LM Studio](https://lmstudio.ai) — Local and cloud model client with provider key fields.
 - [Open NotebookLM](https://github.com/lfnovo/open-notebook) — Research and podcast generation with your own STT/TTS keys.
 
