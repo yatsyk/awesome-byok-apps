@@ -79,6 +79,7 @@ Built-in BYOK in commercial tools.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
 - [n8n](https://n8n.io) — Workflow automation with node-level LLM provider credentials.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Self-hosted autonomous agent framework.
+- [WeaveStudio](https://weavestudio-nine.vercel.app/) — Local-first workflow canvas with optional BYOK OpenAI and Gemini assistance.
 
 ## Image, audio, and voice
 
