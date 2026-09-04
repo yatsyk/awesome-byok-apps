@@ -75,6 +75,7 @@ Built-in BYOK in commercial tools.
 ## Agents and workflow builders
 
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent framework.
+- [Dao Browser](https://dao.msgbyte.com) — Arc-like Chromium browser for macOS with a BYOK AI agent and MCP support.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual low-code agent builder with encrypted credentials.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
 - [n8n](https://n8n.io) — Workflow automation with node-level LLM provider credentials.
