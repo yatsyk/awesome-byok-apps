@@ -74,6 +74,7 @@ Built-in BYOK in commercial tools.
 
 ## Agents and workflow builders
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Natural-language web and mobile tests using your own LLM API keys.
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent framework.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual low-code agent builder with encrypted credentials.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
