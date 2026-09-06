@@ -28,6 +28,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) — Lightweight static web UI for OpenAI.
 - [big-AGI](https://github.com/enricoros/big-AGI) — Multi-model workspace with personas, tools, and Beam.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) — Cross-platform desktop and mobile chat client.
+- [ENZO](https://github.com/theguysudo/ENZO) — Self-hosted workspace with chat, agents, and skills (Gmail, Calendar, web search) on your own provider keys.
 - [Jan](https://github.com/janhq/jan) — Offline-first desktop app; connects cloud providers or runs local models.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider ChatGPT clone with agents, MCP, and RAG.
 - [LobeChat](https://github.com/lobehub/lobe-chat) — Polished multi-provider chat with plugins and MCP support.
