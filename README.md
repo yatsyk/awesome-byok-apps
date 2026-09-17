@@ -78,6 +78,7 @@ Built-in BYOK in commercial tools.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual low-code agent builder with encrypted credentials.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
 - [n8n](https://n8n.io) — Workflow automation with node-level LLM provider credentials.
+- [NewMax AI](https://newmax.ai) — Desktop agent for macOS and Windows that runs workflows on local files with your own key.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Self-hosted autonomous agent framework.
 
 ## Image, audio, and voice
