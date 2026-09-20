@@ -39,6 +39,7 @@ Multi-provider chat clients — paste your provider key and go.
 ## Code assistants
 
 - [Aider](https://github.com/Aider-AI/aider) — Terminal AI pair-programmer integrated with git.
+- [Atlarix](https://atlarix.dev) — Desktop coding agent that plans, edits, and verifies changes with your own keys.
 - [Cline](https://github.com/cline/cline) — Autonomous coding agent for VS Code.
 - [Continue](https://github.com/continuedev/continue) — VS Code and JetBrains assistant with custom providers.
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) — Agentic VS Code and CLI; fork of Cline and Roo.
