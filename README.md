@@ -76,6 +76,7 @@ Built-in BYOK in commercial tools.
 
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent framework.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual low-code agent builder with encrypted credentials.
+- [Gobare](https://gobare.dev) — Hosted agent runtime API; runs agents on your own model key, which never enters the sandbox.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
 - [n8n](https://n8n.io) — Workflow automation with node-level LLM provider credentials.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Self-hosted autonomous agent framework.
