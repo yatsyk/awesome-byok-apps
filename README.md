@@ -79,6 +79,7 @@ Built-in BYOK in commercial tools.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
 - [n8n](https://n8n.io) — Workflow automation with node-level LLM provider credentials.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Self-hosted autonomous agent framework.
+- [Tale](https://tale.dev) — Self-hosted team workspace for AI agents and workflows using your own provider keys.
 
 ## Image, audio, and voice
 
