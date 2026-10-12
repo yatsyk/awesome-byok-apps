@@ -59,6 +59,7 @@ Built-in BYOK in commercial tools.
 
 ## Writing and research
 
+- [Creatos](https://creatos.io) — Desktop canvas for asking Claude, GPT, Gemini or Ollama about selected PDFs and notes.
 - [Glarity](https://github.com/sparticleinc/chatgpt-google-summary-extension) — Browser extension that summarizes search results and YouTube.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent producing long-form reports.
 - [Khoj](https://github.com/khoj-ai/khoj) — Personal AI across browser, desktop, and plugins.
