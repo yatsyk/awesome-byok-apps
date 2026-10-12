@@ -25,6 +25,7 @@ your data stays out of an intermediate SaaS.
 Multi-provider chat clients — paste your provider key and go.
 
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — Document chat, workspaces, and agents; desktop and server.
+- [Besidka](https://besidka.com) — Open-source chat app for GPT, Claude, Gemini and more; pay providers directly, no markup.
 - [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) — Lightweight static web UI for OpenAI.
 - [big-AGI](https://github.com/enricoros/big-AGI) — Multi-model workspace with personas, tools, and Beam.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) — Cross-platform desktop and mobile chat client.
