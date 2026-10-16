@@ -118,6 +118,7 @@ Where to get API keys.
 - [Perplexity](https://www.perplexity.ai/settings/api) — Sonar search-grounded models.
 - [Replicate](https://replicate.com/account/api-tokens) — Run open-source models via HTTP.
 - [Together AI](https://api.together.xyz/settings/api-keys) — Hosted open-weights inference.
+- [WebWright](https://webwright.ai/account) — API keys for the Wren R1 model over an OpenAI-compatible endpoint.
 - [xAI](https://console.x.ai) — Grok models.
 
 ## Contributing
