@@ -103,6 +103,7 @@ Run your own BYOK-enabled backend, or use a hosted aggregator.
 Where to get API keys.
 
 - [Anthropic](https://console.anthropic.com) — Claude; create keys in Console → Settings → API Keys.
+- [Batchrate](https://batchrate.ai) — OpenAI-compatible Batch API for open models like Qwen3.6.
 - [Cerebras](https://cloud.cerebras.ai) — Ultra-fast inference for Llama and Qwen.
 - [Cohere](https://dashboard.cohere.com/api-keys) — Command, Embed, and Rerank models.
 - [DeepInfra](https://deepinfra.com/dash/api_keys) — Hosted open-weight inference.
