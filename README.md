@@ -74,6 +74,7 @@ Built-in BYOK in commercial tools.
 
 ## Agents and workflow builders
 
+- [CoWork OS](https://github.com/CoWork-OS/CoWork-OS) — Desktop AI agent for files, browser and chat apps with your own keys.
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent framework.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual low-code agent builder with encrypted credentials.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual AI builder with provider setup and global variables.
