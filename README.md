@@ -59,6 +59,7 @@ Built-in BYOK in commercial tools.
 
 ## Writing and research
 
+- [Cover Me](https://www.cover-me.dev) — Chrome extension that writes a tailored cover letter and resume from the job posting you have open.
 - [Glarity](https://github.com/sparticleinc/chatgpt-google-summary-extension) — Browser extension that summarizes search results and YouTube.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent producing long-form reports.
 - [Khoj](https://github.com/khoj-ai/khoj) — Personal AI across browser, desktop, and plugins.
