@@ -40,6 +40,7 @@ Multi-provider chat clients — paste your provider key and go.
 
 - [Aider](https://github.com/Aider-AI/aider) — Terminal AI pair-programmer integrated with git.
 - [Cline](https://github.com/cline/cline) — Autonomous coding agent for VS Code.
+- [Coday](https://github.com/HyperClockUp/Coday) — Use custom API keys in AI IDEs via a Windows desktop proxy.
 - [Continue](https://github.com/continuedev/continue) — VS Code and JetBrains assistant with custom providers.
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) — Agentic VS Code and CLI; fork of Cline and Roo.
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) — Natural-language shell that runs code locally.
