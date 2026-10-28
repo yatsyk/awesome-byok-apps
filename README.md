@@ -83,6 +83,7 @@ Built-in BYOK in commercial tools.
 ## Image, audio, and voice
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Node-based image pipeline; external provider nodes accept API keys.
+- [Escriba](https://github.com/AlvaroGarrido10/escriba) — Chrome extension that records and transcribes meetings, then writes minutes and answers questions.
 - [Fabric](https://github.com/danielmiessler/fabric) — CLI for patterned prompt workflows across providers.
 - [LM Studio](https://lmstudio.ai) — Local and cloud model client with provider key fields.
 - [Open NotebookLM](https://github.com/lfnovo/open-notebook) — Research and podcast generation with your own STT/TTS keys.
