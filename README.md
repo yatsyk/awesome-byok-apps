@@ -45,6 +45,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) — Natural-language shell that runs code locally.
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) — Multi-mode agent team; fork of Cline.
 - [Tabby](https://github.com/TabbyML/tabby) — Self-hosted coding assistant you can point at any provider.
+- [VibeKit.bot](https://vibekit.bot) — Hosted coding agent for each app, run from iPhone or web with your Anthropic or OpenAI key.
 - [Zed](https://github.com/zed-industries/zed) — Rust GPU-accelerated editor with an AI Agent Panel.
 
 ## IDE and terminal
