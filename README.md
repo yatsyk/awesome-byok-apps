@@ -31,7 +31,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [Jan](https://github.com/janhq/jan) — Offline-first desktop app; connects cloud providers or runs local models.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider ChatGPT clone with agents, MCP, and RAG.
 - [LobeChat](https://github.com/lobehub/lobe-chat) — Polished multi-provider chat with plugins and MCP support.
-- [My Assistant](https://myassistant.aplusz.app/en/) — Web, Android and Windows client for 10 providers; chats sync device-to-device.
+- [My Assistant](https://myassistant.aplusz.app/) — Web, Android and Windows client for 10 providers; chats sync device-to-device.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) — Cross-platform (web and Tauri) ChatGPT clone.
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted platform for Ollama and OpenAI with RAG.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) — Power-user roleplay frontend with per-user secrets.
