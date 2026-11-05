@@ -33,6 +33,7 @@ Multi-provider chat clients — paste your provider key and go.
 - [LobeChat](https://github.com/lobehub/lobe-chat) — Polished multi-provider chat with plugins and MCP support.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) — Cross-platform (web and Tauri) ChatGPT clone.
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted platform for Ollama and OpenAI with RAG.
+- [Ortivo](https://ortivo.com/) — Multi-provider AI workspace with answer comparison, Council reviews and document tools.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) — Power-user roleplay frontend with per-user secrets.
 - [TypingMind](https://www.typingmind.com) — Polished web client with AES-encrypted local storage.
 
