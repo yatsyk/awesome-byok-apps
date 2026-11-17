@@ -53,6 +53,7 @@ Built-in BYOK in commercial tools.
 
 - [Cursor](https://docs.cursor.com/settings/models) — AI code editor; add OpenAI, Anthropic, Google, or custom keys.
 - [JetBrains AI](https://blog.jetbrains.com/ai/2025/12/bring-your-own-key-byok-is-now-live-in-jetbrains-ides/) — Plug Anthropic or OpenAI keys into JetBrains IDEs.
+- [Mel](https://www.openmel.dev) — Multi-agent coding terminal for macOS, Windows, Linux, and VS Code; add your own provider keys.
 - [VS Code](https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key) — Language Model Chat Provider API for custom providers.
 - [Warp](https://docs.warp.dev/support-and-community/plans-and-billing/bring-your-own-api-key) — AI terminal with locally stored BYOK.
 - [Zed Agent Panel](https://zed.dev/docs/ai/llm-providers) — Supply Anthropic, OpenAI, Google, or Ollama keys.
