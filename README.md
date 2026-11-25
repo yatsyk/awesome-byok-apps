@@ -38,6 +38,7 @@ Multi-provider chat clients — paste your provider key and go.
 
 ## Code assistants
 
+- [Agentful](https://www.agentful.dev) — Builds web apps from a brief; the CLI runs on your own provider keys, stored locally.
 - [Aider](https://github.com/Aider-AI/aider) — Terminal AI pair-programmer integrated with git.
 - [Cline](https://github.com/cline/cline) — Autonomous coding agent for VS Code.
 - [Continue](https://github.com/continuedev/continue) — VS Code and JetBrains assistant with custom providers.
